@@ -1,5 +1,9 @@
 # NGS_bioinformatics
 
+
+# input data: shorturl.at/fgEJV
+
+
 The directory contains:
 1. HW1_quality_evaluation_FastQC_MultiQC.ipynb - MultiQC quality check of the aequencing data. The quality score of the samples is good (Phred score is above 27); Low level of duplication; GC content around 50%, but bad Per Base Sequence Content
 The proportion of each base position for which each of the four normal DNA bases has been called.  Click a sample row to see a line plot for that dataset.  The report can be found at [MultiQC Report.pdf](https://github.com/eentartetekunst/NGS_bioinformatics/files/9946324/MultiQC.Report.pdf)
